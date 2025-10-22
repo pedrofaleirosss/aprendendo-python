@@ -1,0 +1,29 @@
+{
+    "nome": "Antônio Lima",
+    "filhos": [
+        {
+            "nome": "Paula Lima",
+            "filhos": [
+                {
+                    "nome": "Bruno Lima",
+                    "filhos": [
+                        {
+                            "nome": "Davi Lima"
+                        }
+                    ]
+                },
+                {
+                    "nome": "Larissa Lima"
+                }
+            ]
+        },
+        {
+            "nome": "Cláudio Lima",
+            "filhos": [
+                {
+                    "nome": "Sofia Lima"
+                }
+            ]
+        }
+    ]
+}
